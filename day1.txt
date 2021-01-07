@@ -1,0 +1,106 @@
+downsides: 缺陷，不利因素
+eg: this setup also has some serious downsides
+
+Furthermore: 此外，再者
+
+simultaneously：同时
+
+As with：和...一样
+As with many great things in life
+
+Git began with a bit of creative destruction and fiery controversy. Git一开始就有一些创造性的破坏和激烈的争论
+a bit of 有点儿 ; 有几分 ; 稍微
+destruction 摧毁 ; 毁灭 ; 破坏
+fiery 火一般的 ; 火的 ; 暴躁的 ; 易怒的 ; 充满激情的 ; 怒气冲冲的
+controversy 争论，辩论，论战 
+
+project of fairly large scope：规模较大的项目
+
+fairly 一定地 ; 相当地 
+scope 机会，能力 ; 范围 ;
+
+maintenance：维护，保养
+
+revoked：取消，废除
+
+prompted：导致，促使
+
+Prompt：提示符？
+
+lessons：经验，教训
+
+retain：保留
+
+in a nutshell：简言之
+
+absorb：合并，吸收
+
+fundamentals：基本原理
+the fundamentals of how it works
+
+distinction：区别，差别
+This is an important distinction between Git and nearly all other VCSs
+
+aspect：方面
+reconsider almost every aspect of xxx
+
+unworldly：超凡的
+
+instantaneous：立即的，瞬间的
+most operations seem almost instantaneous
+
+to browse：浏览
+
+integral：不可或缺的
+
+philosophy：哲学，思想体系
+
+corruption：损坏，变体
+
+mechanism：机制
+
+Pay attention now：注意
+
+while the opposite is not necessarily true：反之不一定是真的
+
+comes with：附带
+
+immutably：不变的，永恒的
+
+skeleton：骨架，框架
+
+go over：认真讨论，仔细检查
+
+bona fide ：合法的
+
+stage area：暂存区
+
+diverged：偏离，分歧
+
+subsequent：后续
+
+turns out ：结果是
+
+comprehensive：全面的
+
+ in a more compact way：更紧凑的方式
+ 
+ recursivity：递归
+ 
+ brackets：括号[]，等级
+ 
+ asterisks：星号*
+ 
+ shortcut：快捷方式
+ 
+ explicitly：明确的
+ 
+ abbreviated：缩写
+ 
+ subset：子集
+ 
+ colloquially：通俗的说
+ 
+ referred to as：被称为，简称
+ 
+ For instance：例如

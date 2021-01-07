@@ -104,3 +104,7 @@ comprehensive：全面的
  referred to as：被称为，简称
  
  For instance：例如
+ 
+ demonstrations：演示，证明
+ 
+ mentioned：提到，写到

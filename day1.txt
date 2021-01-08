@@ -123,7 +123,35 @@ industries：产业
  
  garbage collection：垃圾回收
  
- 
+ wildcards：通配符
+
+mandatory：强制性的
+
+lightweight：轻量的
+
+annotated：注释
+
+intuitive：直观，简易的
+
+be pointing to：指向
+
+detached：独立的，分离的
+
+purged：清除
+
+expire：到期，失效
+
+plain file：纯文本
+
+cleartext：明文
+
+credential：证书，凭据
+
+invoked：调用
+
+encrypts：加密
+
+cumulative CPU time: 累计的
  
  
  

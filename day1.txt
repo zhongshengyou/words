@@ -116,11 +116,12 @@ comprehensive：全面的
  incorporate：合并
  
  alphabetical order：按字母顺序
+
+encrypts：加密
  
+industries：产业
  
- 
- 
- 
+ garbage collection：垃圾回收
  
  
  

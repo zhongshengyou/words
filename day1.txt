@@ -153,6 +153,42 @@ encrypts：加密
 
 cumulative CPU time: 累计的
  
+sophisticated: 复杂的
+
+speculate: 推测
+
+disclaimer: 免责声明
+
+interrelated: 相关
+
+rudimentary: 初级的
+
+Miscellaneous Files: 杂项文件
+
+bundled up: 捆绑
+
+typographical: 排版
+
+dereferencing: 取消引用
  
- 
- 
+arbitrary: 任意的
+
+slot: 插槽
+
+collisions: 冲突
+
+conventions: 约定,惯例(naming conventions 命名约定?)
+
+Sibling nodes: 兄弟节点
+
+populate: 填充, 移民
+
+hierarchy: 层次,结构
+
+This practice: 这种做法
+
+cumbersome: 麻烦,累赘
+
+the sole method of: 唯一的办法
+
+serves as: 充当
